@@ -8,4 +8,4 @@ const product = a * b * c;
 const average = sum / 3;
 
 document.querySelector('#target').innerHTML =
-  `Summa: ${sum}<br>Tulo: ${product}<br>Keskimäärä: ${average}`;
+  `Summa: ${sum}<br>Tulo: ${product}<br>Keskiarvo: ${average}`;
